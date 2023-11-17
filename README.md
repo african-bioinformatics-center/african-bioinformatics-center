@@ -25,7 +25,9 @@ At ABC, we offer a wide range of services to meet the needs of our clients. Our 
 
 ## Who we are?
 
-..............................
+Our team is composed of dedicated field experts with at least 5 years of experience in the following three areas: Bioinformatics, Statistics and Software development. 
+
+* **Karim Mané: ** [GitHub](https://github.com/Karim-Mane), [linkedin](https://www.linkedin.com/in/karim-man%C3%A9-7b928769/)
 
 ## How to contact us ! 
 
