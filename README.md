@@ -30,7 +30,7 @@ Our team is composed of dedicated field experts with at least 5 years of experie
 * **Karim Mané:** [GitHub](https://github.com/Karim-Mane), [linkedin](https://www.linkedin.com/in/karim-man%C3%A9-7b928769/)
 * **Khadim GUEYE:** [GitHub](https://github.com/KhadimGueyeKGY) , [Linkedin](https://www.linkedin.com/in/khadim-gueye-9629a3200/) , [ORCID](https://orcid.org/0000-0001-5854-6020)
 
-## How to contact us ! 
+## How to contact us! 
 
   * Email: africanbioinformaticscenter@gmail.com
   * Tel: +44 7311 296972 / +220 283 99 75 
